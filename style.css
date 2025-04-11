@@ -1,0 +1,19 @@
+body {
+	font-family: Roboto Condensed;
+	text-align: center;
+	justify-content: center;
+	background-color: darkseagreen;
+}
+
+.verform {
+	background-color: antiquewhite;
+	margin: 4%;
+	padding: 10px;
+	border: 20px ridge #176112;
+	box-shadow: -20px 23px 31px 13px rgba(0,0,0,0.75);
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
